@@ -1,25 +1,28 @@
 ---
-title: Domen Su (蘇多門)
-author: Domen Su
+title: Do-Men Su (蘇多門)
+author: Do-Men Su
 ---
 
-# Domen Su (蘇多門)
+# Do-Men Su (蘇多門)
 
 Hello, world! Welcome to my website.
 
-I am a college student majoring in Computer Science. I am interested in programming and like to learn new technologies. Here is brief information about myself. To learn more about me, welcome to visit the websites listed below.
+I am a master's student majoring in Computer Sciences, interested in programming and like to learn new technologies. Here is brief information about myself; to learn more about me, welcome to visit the websites listed below.
 
 ## Education
-- [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/) (2016-Present)
+- [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin - Madison ](https://www.wisc.edu/) (2020 - Present)
+- [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/) (2016 - 2020)
 - [Tainan First Senior High School](https://www.tnfsh.tn.edu.tw/) (2013-2016)
 
 ## Experience
-- [NTU CSIE Workstation Management Team](https://wslab.csie.ntu.edu.tw/) (2018 - Present)
-- Google Intern (2018 Summer)
+- [Kronos](https://kronosresearch.com/) Intern (2020 Summer)
+- [NTU CSIE Workstation Management Team](https://wslab.csie.ntu.edu.tw/) (2018 - 2020)
+- [Google](https://about.google/) Intern (2018 Summer)
 - President of [Computer and Information Science Club](https://www.tfcis.org/) at [Tainan First Senior High School](https://www.tnfsh.tn.edu.tw/) (2014 - 2015)
 
 ## Websites
 
+- LinkedIn: https://www.linkedin.com/in/domen-su-096216145/
 - Github: https://github.com/domen111
 - My projects since childhood: https://sites.google.com/site/domenprg/
 - Blog (programming problem solutions in Chinese): https://domen-blog.github.io/
