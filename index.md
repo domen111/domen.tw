@@ -22,7 +22,7 @@ I am a master's student majoring in Computer Sciences, interested in programming
 
 ## Websites
 
-- LinkedIn: https://www.linkedin.com/in/domen-su-096216145/
+- LinkedIn: https://www.linkedin.com/in/domensu/
 - Github: https://github.com/domen111
 - My projects since childhood: https://sites.google.com/site/domenprg/
 - Blog (programming problem solutions in Chinese): https://domen-blog.github.io/
