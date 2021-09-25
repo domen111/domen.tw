@@ -15,6 +15,8 @@ I am a master's student majoring in Computer Sciences, interested in programming
 - [Tainan First Senior High School](https://www.tnfsh.tn.edu.tw/) (2013-2016)
 
 ## Experience
+- [Google](https://about.google/) Intern (2021 Summer)
+  - [Chromium OS Open Source](https://chromium-review.googlesource.com/q/owner:domen%2540google.com)
 - [Kronos](https://kronosresearch.com/) Intern (2020 Summer)
 - [NTU CSIE Workstation Management Team](https://wslab.csie.ntu.edu.tw/) (2018 - 2020)
 - [Google](https://about.google/) Intern (2018 Summer)
