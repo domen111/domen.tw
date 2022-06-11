@@ -10,7 +10,7 @@ Hello, world! Welcome to my website.
 I am a master's student majoring in Computer Sciences, interested in programming and like to learn new technologies. Here is brief information about myself; to learn more about me, welcome to visit the websites listed below.
 
 ## Education
-- [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin - Madison ](https://www.wisc.edu/) (2020 - Present)
+- [Computer Sciences](https://www.cs.wisc.edu/) at [University of Wisconsin - Madison ](https://www.wisc.edu/) (2020 - 2022)
 - [Computer Science and Information Engineering](https://www.csie.ntu.edu.tw/) at [National Taiwan University](https://www.ntu.edu.tw/) (2016 - 2020)
 - [Tainan First Senior High School](https://www.tnfsh.tn.edu.tw/) (2013-2016)
 
